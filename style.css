@@ -1,0 +1,13 @@
+.items-style{
+    text-align: center;
+    margin: 7em auto;
+}
+
+.btn{
+    padding: 15px 20px;
+    font-size: 30px;
+    background: teal;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+}
